@@ -1,2 +1,2 @@
 # Small Projects
-Collection of Small Projects from Online Tutorials
+Collection of Small Projects from Online Tutorials.
